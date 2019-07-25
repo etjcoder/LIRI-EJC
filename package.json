@@ -1,0 +1,31 @@
+{
+  "name": "liri-ejc",
+  "version": "1.0.0",
+  "description": "LIRI Language Interpretation Response Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evanjcleary/LIRI-EJC.git"
+  },
+  "keywords": [
+    "LIRI",
+    "Spotify",
+    "OMDB",
+    "BandsinTown"
+  ],
+  "author": "ETJCODER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evanjcleary/LIRI-EJC/issues"
+  },
+  "homepage": "https://github.com/Evanjcleary/LIRI-EJC#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
